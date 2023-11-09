@@ -1,4 +1,4 @@
-package br.com.vraposo.primeiroprojetospringboot;
+package br.com.vraposo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
