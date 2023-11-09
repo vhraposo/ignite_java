@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PrimeiroProjetoSpringbootApplication<primeiro-projeto-springboot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.vraposo.primeiroprojetospringboot.PrimeiroProjetoSpringbootApplication",
+            "projectName": "primeiro-projeto-springboot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
